@@ -178,14 +178,15 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text] (image/bridac.jpg)
-![alt text](image/denim.jpg)
-![alt text](image/dress.jpg)
-![alt text](image/ghararitant.jpg)
-![alt text](image/kurthi.jpg)
-![alt text](image/lehanga.jpg)
-![alt text](image/panneclonddress.jpg)
-![alt text](image/skirt.jpg)
+![Bridac](image/bridac.jpg)
+![Denim](image/denim.jpg)
+![Dress](image/dress.jpg)
+![Gharara Pant](image/ghararitant.jpg)
+![Kurthi](image/kurthi.jpg)
+![Lehanga](image/lehanga.jpg)
+![Panel Long Dress](image/panneclonddress.jpg)
+![Skirt](image/skirt.jpg)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
